@@ -1,0 +1,6 @@
+{
+  "name": "AegisSlick - Satellite Oil Spill & AIS Vessel Attribution",
+  "description": "Automated SAR/EO oil slick segmentation, MetOcean Lagrangian drift hindcasting/forecasting, and Marine Cadastre AIS vessel attribution pipeline.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
